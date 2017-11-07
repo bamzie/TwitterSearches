@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "c58460dc549a4c82201c6084f74f31e1"
+build_time: [559075055, 104931000]
+inputs:
+  "/Users/Bamz/Developer/Smashtag/Smashtag/AppDelegate.swift": [559074898, 0]
+  "/Users/Bamz/Developer/Smashtag/Smashtag/TweetTableViewController.swift": [559075053, 0]
